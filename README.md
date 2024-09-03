@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou estudante de S.I (Sistemas para Internet) na IFPB, já tenho experiências com automação de tarefas utilizando Python e Selenium. Além disso, estudo de forma autodidata em busca de me qualificar e crescer na área de tecnologia👾👨🏾‍💻.</p>
+<p align="left">Sou estudante de Sistemas para Internet (S.I) no IFPB, com sólida experiência em automação de tarefas utilizando Python, Selenium e scraping. Além disso, tenho experiência com HTML5, CSS3 e JavaScript, o que me permite desenvolver interfaces web modernas e funcionais. Minha busca autodidata por conhecimento me impulsiona a crescer continuamente na área de tecnologia, com o objetivo de me tornar um profissional completo e versátil. 👾👨🏾‍💻</p>
 
 ###
 
